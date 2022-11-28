@@ -1,0 +1,101 @@
+/* _content/signInProject/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+html[b-gh71klgsmj] {
+    padding:0;
+    margin: 0;
+}
+
+a.navbar-brand[b-gh71klgsmj] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-gh71klgsmj] {
+  color: #0077cc;
+}
+
+.btn-primary[b-gh71klgsmj] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+
+/* Home Image Slider */
+
+.home .slide[b-gh71klgsmj] {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    min-height: 60vh;
+    padding: 2rem 7%;
+    background-size: cover !important;
+    background-position: center !important;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: none;
+}
+
+.home .slide .active[b-gh71klgsmj] {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+}
+
+.home .slide .content span[b-gh71klgsmj] {
+        color: #333;
+        display: block;
+        font-size: 2rem;
+        -webkit-animation: fadeIn .4s linear .2s backwards;
+        animation: fadeIn .4s linear .2s backwards;
+}
+
+.home .slide .content h3[b-gh71klgsmj] {
+        color: rgb(0, 0, 0);
+        text-transform: uppercase;
+        padding: 1rem 0;
+        font-size: 4.5rem;
+        -webkit-animation: fadeIn .4s linear .4s backwards;
+        animation: fadeIn .4s linear .4s backwards;
+ }
+
+ .home .slide .content .btn[b-gh71klgsmj] {
+        -webkit-animation: fadeIn .4s linear .6s backwards;
+        animation: fadeIn .4s linear .6s backwards;
+ }
+
+.nav-pills .nav-link.active[b-gh71klgsmj], .nav-pills .show > .nav-link[b-gh71klgsmj] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-gh71klgsmj] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-gh71klgsmj] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-gh71klgsmj] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-gh71klgsmj] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-gh71klgsmj] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jmwinbush/Projects/signInProject/Ecommerce.csproj",
+      "projectUniqueName": "/Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/Ecommerce.csproj",
       "projectName": "signInProject",
-      "projectPath": "/Users/jmwinbush/Projects/signInProject/Ecommerce.csproj",
+      "projectPath": "/Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/Ecommerce.csproj",
       "packagesPath": "/Users/jmwinbush/.nuget/packages/",
-      "outputPath": "/Users/jmwinbush/Projects/signInProject/obj/",
+      "outputPath": "/Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jmwinbush/.nuget/NuGet/NuGet.Config"
