@@ -1,1 +1,1 @@
-# ASP.NET and C# ecommerce website
+# ASP.NET and C# ecommerce application
