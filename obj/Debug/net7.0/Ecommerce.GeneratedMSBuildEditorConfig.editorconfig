@@ -16,8 +16,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/Views/Brands/Rayban.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQnJhbmRzL1JheWJhbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/Views/Eyeglasses/MenEyeglasses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXllZ2xhc3Nlcy9NZW5FeWVnbGFzc2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/Views/Eyeglasses/WomenEyeglasses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXllZ2xhc3Nlcy9Xb21lbkV5ZWdsYXNzZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/Views/Home/Brands.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9CcmFuZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/Views/Home/Contacts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/Views/Home/Eyeglasses.cshtml]
@@ -42,6 +58,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/Views/Sunglasses/MenSunglasses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VuZ2xhc3Nlcy9NZW5TdW5nbGFzc2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/Views/Sunglasses/WomenSunglasses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VuZ2xhc3Nlcy9Xb21lblN1bmdsYXNzZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/Views/_ViewImports.cshtml]

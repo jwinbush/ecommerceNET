@@ -21,7 +21,6 @@
 /Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/obj/Debug/net7.0/staticwebassets.pack.json
 /Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/obj/Debug/net7.0/staticwebassets.build.json
 /Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/obj/Debug/net7.0/staticwebassets.development.json
-/Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/obj/Debug/net7.0/scopedcss/bundle/signInProject.styles.css
 /Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/obj/Debug/net7.0/scopedcss/projectbundle/signInProject.bundle.scp.css
 /Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/obj/Debug/net7.0/signInProject.dll
@@ -29,3 +28,4 @@
 /Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/obj/Debug/net7.0/signInProject.pdb
 /Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/obj/Debug/net7.0/Ecommerce.genruntimeconfig.cache
 /Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/obj/Debug/net7.0/ref/signInProject.dll
+/Users/jmwinbush/Documents/GitHub/commerceNET/ecommerceNET/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css

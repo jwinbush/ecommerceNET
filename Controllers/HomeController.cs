@@ -18,25 +18,44 @@ public class HomeController : Controller
         return View();
     }
 
+    //Eyeglasses
     public IActionResult Eyeglasses()
     {
         return View();
     }
 
+    public IActionResult MenEyeglasses()
+    {
+        return View();
+    }
+
+    public IActionResult WomenEyeglasses()
+    {
+        return View();
+    }
+
+    //Sunglasses
     public IActionResult Sunglasses()
     {
         return View();
     }
 
+    public IActionResult MenSunglasses()
+    {
+        return View();
+    }
+
+    public IActionResult WomenSunglasses()
+    {
+        return View();
+    }
+
+    //Brands
     public IActionResult Brands()
     {
         return View();
     }
 
-    public IActionResult Lenses()
-    {
-        return View();
-    }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()

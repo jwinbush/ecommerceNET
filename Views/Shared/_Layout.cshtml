@@ -3,10 +3,12 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Hint Eyewear</title>
+    <title>Glasses & Lenses Online - @ViewData["Title"]</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Ecommerce.styles.css" asp-append-version="true" />
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 
 <body>
@@ -30,7 +32,10 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Brands">Brands</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Lenses">Lenses</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Home">Lenses</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Home">Contacts</a>
                         </li>
                     </ul>
                 </div>
